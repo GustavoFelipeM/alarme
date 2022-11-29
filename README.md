@@ -9,5 +9,5 @@
 3. CustomTkinter
    
 # Execução do alarme
-* Imagem: <br> <br> <img src= ./img/tela.png>
-* Vídeo: <br> <br> <video src=./img/video.mkv>
+* Imagem: <br> <br> <img src= /img/tela.png>
+* Vídeo: <br> <br> <video src=/img/video.mkv>
